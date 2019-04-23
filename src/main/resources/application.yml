@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    type: org.apache.commons.dbcp.BasicDataSource
+    url: jdbc:mysql:///mybatis?serverTimezone=UTC
+    username: root
+    password: 1234
